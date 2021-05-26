@@ -30,10 +30,14 @@
 }
 
 img{
-    width: 100%;
+    float:center;
+    width: 250px;
+    height: 250px;
+    background-size: cover;
+
 }
 
-.product-bottom .fas{
+.product-bottom .bi{
     color: #28a745;
     font-size: 10px;
     
@@ -64,7 +68,7 @@ img{
 
 }
 
-.overlay .fas{
+.overlay .bi{
     cursor: pointer;
     background-color: #fff;
     color: #000;
